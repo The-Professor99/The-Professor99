@@ -3,7 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/festusihechi" target="blank"><img src="https://img.shields.io/twitter/follow/festusihechi?logo=twitter&style=for-the-badge" alt="festusihechi" /></a> </p>
 
-- 🔭 I’m currently working on [Syftset](https://syftset.com)
+- 🔭 I’m currently working on [Syftset](https://syftset1.web.app/)
+- 
 
 - 👨‍💻 All of my projects are available at [https://ihechifestus9.web.app/](https://ihechifestus9.web.app/)
 
