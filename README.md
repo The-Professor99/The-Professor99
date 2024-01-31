@@ -13,7 +13,7 @@ I'm <strong>Festus Ihechi</strong>, a recent <strong>graduate</strong> in <stron
 My powers lie in <strong>planning and execution</strong>. [<strong>Problem-solving, troubleshooting, and debugging</strong>](https://www.coursera.org/learn/troubleshooting-debugging-techniques) are skills I've honed in my battle against software bugs. I pride myself on excellent <strong>communication and collaboration skills</strong>. Whether working independently or as part of a team, I bring dedication and enthusiasm to every task. My ability to <strong>undertake tasks independently</strong> complements my <strong>teamwork</strong> abilities, ensuring successful project outcomes.
 
 ### Interests
-Beyond software development, <strong>I enjoy research</strong>ing things that interest me (ingesting loads of information in the process), <strong> curating and listening to music playlists, cooking, writing stories, and bringing smiles to people's faces.</strong> These hobbies add a creative dimension to my life and inspire me to explore new avenues of self-expression.
+Beyond software development, <strong>I enjoy research</strong>ing things that interest me (ingesting loads of information in the process), <strong> listening to and curating music playlists, cooking, writing stories, and bringing smiles to people's faces.</strong> These hobbies add a creative dimension to my life and inspire me to explore new avenues of self-expression.
 
 ### Weaknesses
 While I'm a <strong>quick learner</strong>, I am also a slow thinker and sometimes struggle with on-demand responses (speech-based) due to my <strong>analytical thought process</strong> and inclination towards perfectionism. However, I continuously work on improving my response time and embracing imperfection as part of the learning process.
@@ -21,7 +21,7 @@ While I'm a <strong>quick learner</strong>, I am also a slow thinker and sometim
 ### Experience with CI/CD Processes
 My exposure to CI/CD processes primarily revolves around <strong>Git, GitHub, and GitHub Actions</strong>. While I have foundational knowledge of <strong>CI/CD processes and pipelines</strong> from courses like [Configuration Management and the Cloud,](https://www.coursera.org/learn/configuration-management-cloud) I am eager to deepen my practical experience in this area.
 
-### Major Languages and Tools
+### Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-Expert-blue?style=for-the-badge&logo=JavaScript)
 ![React](https://img.shields.io/badge/React-Expert-blue?style=for-the-badge&logo=React)
@@ -29,6 +29,7 @@ My exposure to CI/CD processes primarily revolves around <strong>Git, GitHub, an
 ![TypeScript](https://img.shields.io/badge/Typescript-intermediate-orange?style=for-the-badge&logo=Typescript)
 ![Angular](https://img.shields.io/badge/Angular-intermediate-orange?style=for-the-badge&logo=Angular)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-intermediate-orange?style=for-the-badge&logo=TailwindCSS)
+![Nextjs](https://img.shields.io/badge/NextJs-novice-red?style=for-the-badge&logo=next.js)
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=Python)
 ![Pandas](https://img.shields.io/badge/Pandas-Expert-blue?style=for-the-badge&logo=Pandas)
@@ -36,7 +37,7 @@ My exposure to CI/CD processes primarily revolves around <strong>Git, GitHub, an
 ![Scikit-Learn](https://img.shields.io/badge/SKLearn-Expert-blue?style=for-the-badge&logo=scikit-learn)
 ![Numpy](https://img.shields.io/badge/Numpy-intermediate-orange?style=for-the-badge&logo=Numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-intermediate-orange?style=for-the-badge&logo=matplotlib)
-![Huggingface Transformers](https://img.shields.io/badge/Transformers-intermediate-orange?style=for-the-badge&logo=Hugging-face)
+![Huggingface Transformers](https://img.shields.io/badge/Transformers-intermediate-orange?style=for-the-badge&logo=Huggingface-transformers)
 ![Langchain](https://img.shields.io/badge/Langchain-novice-red?style=for-the-badge&logo=LangChain)
 
 ![GCP](https://img.shields.io/badge/GCP-intermediate-orange?style=for-the-badge)
