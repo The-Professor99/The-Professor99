@@ -19,7 +19,7 @@ My powers lie in <strong>planning and execution</strong>. [<strong>Problem-solvi
 ![TypeScript](https://img.shields.io/badge/Typescript-intermediate-orange?style=for-the-badge&logo=Typescript)
 ![Angular](https://img.shields.io/badge/Angular-intermediate-orange?style=for-the-badge&logo=Angular)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-intermediate-orange?style=for-the-badge&logo=TailwindCSS)
-![Nextjs](https://img.shields.io/badge/NextJs-novice-red?style=for-the-badge&logo=next.js)
+![Nextjs](https://img.shields.io/badge/NextJs-Expert-blue?style=for-the-badge&logo=next.js)
 
 ![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge&logo=Python)
 ![Pandas](https://img.shields.io/badge/Pandas-Expert-blue?style=for-the-badge&logo=Pandas)
