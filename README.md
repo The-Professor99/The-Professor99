@@ -7,7 +7,7 @@ I'm <strong>Festus Ihechi</strong>, a recent <strong>graduate</strong> in <stron
 
 - 👨‍💻 Some of my projects are available at [https://ihechifestus9.web.app/](https://ihechifestus9.web.app/)
 
-- 📄 Know about my experiences [https://ihechifestus9.web.app/files/resume.pdf](https://ihechifestus9.web.app/files/resume.pdf)
+- 📄 Know about my experiences => [See resume](https://docs.google.com/document/d/1w2RyphpWtsHK8cY8SZNs_ecl9FJGUifJPDCW48U9468)
 
 ### Strengths and Skills
 My powers lie in <strong>planning and execution</strong>. [<strong>Problem-solving, troubleshooting, and debugging</strong>](https://www.coursera.org/learn/troubleshooting-debugging-techniques) are skills I've honed in my battle against software bugs. I pride myself on excellent <strong>communication and collaboration skills</strong>. Whether working independently or as part of a team, I bring dedication and enthusiasm to every task. My ability to <strong>undertake tasks independently</strong> complements my <strong>teamwork</strong> abilities, ensuring successful project outcomes.
